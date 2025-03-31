@@ -1,24 +1,20 @@
 # 163446-Cat-2
-Project Overview
-
+## Project Overview
 This project demonstrates key concepts in Java, specifically focusing on encapsulation, method overloading, and polymorphism.
 
-Key Concepts Explored
-
-1. Encapsulation
-
+## Key Concepts Explored
+### 1. **Encapsulation**
 Demonstrated in the Student class by using private attributes with public getters and setters to control access.
 
-2. Method Overloading
-
+### 2. **Method Overloading**
 Demonstrated in the MathOperations class by providing multiple multiply() methods with different parameter lists.
 
-3. Polymorphism
-
+### 3. **Polymorphism**
 Demonstrated through method overriding in the Animal, Dog, and Cat classes.
 
-Project Structure
+## Project Structure
 
+``
 Student.java            // Defines a student with encapsulated attributes
 
 MathOperations.java // Defines overloaded methods for multiplication
@@ -30,8 +26,8 @@ Dog.java                // Subclass overriding makeSound()
 Cat.java                 // Subclass overriding makeSound()
 
 Main.java               // Main class demonstrating encapsulation, method overloading, and polymorphism
-
-Code Explanation
+``
+## Code Explanation
 
 1. Student.java (Encapsulation)
 
